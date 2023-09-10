@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Optional: Environment variables file (if using dotenv)
+.env
+
+# Optional: IDE-specific files
+.vscode/
+.idea/
+
+# Optional: OS-specific files
+.DS_Store
+Thumbs.db
