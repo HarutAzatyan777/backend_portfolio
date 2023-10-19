@@ -13,8 +13,7 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
-# Optional: Environment variables file (if using dotenv)
-.env
+
 
 # Optional: IDE-specific files
 .vscode/
